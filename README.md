@@ -7,3 +7,5 @@ This repository is designed for Python projects related to Machine Learning.
 - `python-for-ml/`: Contains Python scripts and resources for Machine Learning.
 ## Getting Started
 To get started with this project, clone the repository and navigate to the `python-for-ml` folder.
+## main.py
+print hello world
