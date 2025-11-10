@@ -9,3 +9,7 @@ This repository is designed for Python projects related to Machine Learning.
 To get started with this project, clone the repository and navigate to the `python-for-ml` folder.
 ## main.py
 print hello world
+>Get-ExecutionPolicy
+>Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process
+>.\env\Scripts\Activate.ps1
+>Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
